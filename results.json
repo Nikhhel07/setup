@@ -1,6 +1,6 @@
 [
   {
-    "Target": "nikhhel/nikhhel:22 (ubuntu 24.04)",
+    "Target": "nikhhel/mikhy:20 (ubuntu 24.04)",
     "Type": "ubuntu"
   },
   {
@@ -40,7 +40,7 @@
     "Type": "jar"
   },
   {
-    "Target": "usr/local/tomcat/lib/ecj-4.35.jar",
+    "Target": "usr/local/tomcat/lib/ecj-4.36.jar",
     "Type": "jar"
   },
   {
